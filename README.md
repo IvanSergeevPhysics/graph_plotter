@@ -1,2 +1,2 @@
 # graph_plotter
-Graph plotter using reverse polish notation
+## Graph plotter using reverse polish notation
